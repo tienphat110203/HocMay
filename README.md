@@ -3,6 +3,7 @@
 |**Thành viên**|**MSSV**|
 |:- | --- |
 |Lưu Võ Tiến Phat|
+|Phạm Hồng Huy|
   
 ---
 # Tổng quan bài toán và dữ liệu

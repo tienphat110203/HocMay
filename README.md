@@ -1,6 +1,6 @@
 # Dự đoán giá nhà (cuộc thi luyện tập trên Kaggle)
 ## Thông tin nhóm
-|**Thành viên**|**MSSV**|
+|**Thành viên**|
 |:- | --- |
 |Lưu Võ Tiến Phat|
 |Phạm Hồng Huy|
